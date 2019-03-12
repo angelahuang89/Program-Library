@@ -31,6 +31,11 @@ After installing dependencies and setting up the database url in the .env file, 
 1. `npx knex migrate:latest` to perform database migrations
 1. `npx knex seed:run` to seed the database
 
+## Future Improvements
+
+  - Add testing
+  - Update CSS styles
+
 ## Requirements
 
   - material-ui/cor": ^3.9.2
