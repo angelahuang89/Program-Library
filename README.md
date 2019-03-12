@@ -1,6 +1,6 @@
 # Program-Library
 
-Progress through a program library. Peruse programs and sections within them.
+Progress through a program library. Peruse programs and sections within programs!
 
 ## Usage
 
@@ -28,8 +28,8 @@ DATABASE_URL=<insert your database url here>
 
 After installing dependencies and setting up the database url in the .env file, run the following commands:
 
-`npx knex migrate:latest` to perform database migrations
-`npx knex seed:run` to seed the database
+1. `npx knex migrate:latest` to perform database migrations
+1. `npx knex seed:run` to seed the database
 
 ## Requirements
 
